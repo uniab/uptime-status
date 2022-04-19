@@ -16,10 +16,9 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm791470886-d61bcc0b726418330558f14d',
+    'm791476848-6f1ca15be4fd0e6c1584afba',
+    'm791476879-5f83dc060af8f1e2a1116b4d',
   ],
 
   // 是否显示监测站点的链接
@@ -34,11 +33,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://status.uniab.com/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/uniab/uptime-status'
     }
   ]
 };
